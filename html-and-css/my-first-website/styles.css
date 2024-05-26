@@ -1,0 +1,46 @@
+/*Selector {
+  Property:value;
+}*/
+body {
+  background-image: url(flowerbackground.jpg);
+  background-size:cover;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+}
+
+h2 {
+  color:rgb(86, 85, 114);
+  font-weight: bold;
+  cursor:default;
+font-family: 'Raleway', sans-serif;
+
+}
+
+p {
+  color:rgb(86, 85, 114);
+ line-height: 40px;
+ font-size:110%;
+font-family: 'Raleway', sans-serif;
+}
+
+li {
+  list-style: none;
+  display:inline-block;
+}
+#flowerpoem {
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  align-items:center;
+  background:rgba(255, 255, 255,0.5);
+  background-size:50px,50px;
+  padding: 80px 300px;
+
+}
+.wrap-flowerpoem {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
