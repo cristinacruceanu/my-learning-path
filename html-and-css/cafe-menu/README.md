@@ -1,3 +1,3 @@
 # Cafe Menu
 
-https://cafe-menu-project.netlify.app
+<a href="https://cafe-menu-project.netlify.app" target="_blank"> View on the browser </a>
