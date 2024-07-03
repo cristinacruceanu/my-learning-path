@@ -12,7 +12,10 @@ Feel free to explore the projects and source code in the provided paths, and joi
 
 - <a href="./html-and-css/my-first-website">my-first-website</a>
 - <a href="./html-and-css/cat-photo-app">cat-photo-app</a>
+- <a href="./html-and-css/cafe-menu">cafe-menu</a>
 
 ## Javascript
 
 ## React
+
+- <a href="./react/firstapp">first-app</a>
