@@ -14,6 +14,7 @@ Feel free to explore the projects and source code in the provided paths, and joi
 - <a href="./html-and-css/cat-photo-app">cat-photo-app</a>
 - <a href="./html-and-css/cafe-menu">cafe-menu</a>
 - <a href="./html-and-css/colored-markers">colored-markers</a>
+- <a href="./html-and-css/registration-form">registration-form</a>
 
 ## Javascript
 
