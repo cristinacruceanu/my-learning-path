@@ -1,3 +1,3 @@
 # Rothko Painting
 
-<a href="" target="_blank"> View in browser </a>
+<a href="https://projectrothkopainting.netlify.app" target="_blank"> View in browser </a>
