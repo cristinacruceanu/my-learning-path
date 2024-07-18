@@ -15,6 +15,11 @@ Feel free to explore the projects and source code in the provided paths, and joi
 - <a href="./html-and-css/cafe-menu">cafe-menu</a>
 - <a href="./html-and-css/colored-markers">colored-markers</a>
 - <a href="./html-and-css/registration-form">registration-form</a>
+- <a href="./html-and-css/rothko-painting">rothko-painting</a>
+- <a href="./html-and-css/flexbox-photo-gallery">flexbox-photo-gallery</a>
+- <a href="./html-and-css/nutrition-label">nutrition-label</a>
+- <a href="./html-and-css/building-a-quiz">building-a-quiz</a>
+- <a href="./html-and-css/balance-sheet">balance-sheet</a>
 
 ## Javascript
 
