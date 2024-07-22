@@ -23,6 +23,7 @@ Feel free to explore the projects and source code in the provided paths, and joi
 - <a href="./html-and-css/cat-painting">cat-painting</a>
 - <a href="./html-and-css/piano">piano</a>
 - <a href="./html-and-css/city-skyline">city-skyline</a>
+- <a href="./html-and-css/magazine">magazine</a>
 
 ## Javascript
 
