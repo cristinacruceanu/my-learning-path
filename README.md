@@ -25,6 +25,7 @@ Feel free to explore the projects and source code in the provided paths, and joi
 - <a href="./html-and-css/city-skyline">city-skyline</a>
 - <a href="./html-and-css/magazine">magazine</a>
 - <a href="./html-and-css/ferris-wheel">ferris-wheel</a>
+- <a href="./html-and-css/penguin">penguin</a>
 
 ## Javascript
 
